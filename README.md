@@ -51,4 +51,4 @@ Explora más proyectos en [Basketmática](https://basketmatica.com).
 
 ## ⚖️ Licencia
 
-Este proyecto está bajo la licencia CC BY-NC 4.0. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia **CC BY-NC 4.0**. Consulta el archivo LICENSE para más detalles.
